@@ -1,0 +1,18 @@
+Language and software tool used
+Front End : C++
+Operating System : Window 7
+Back End : C++ Data File Handling
+
+Hardware Requirement:
+Processor: Intel dual core or above
+Processor Speed:1.0GHZ or above
+RAM: 1 GB RAM or above
+Hard Disk: 20 GB hard disk or above
+
+Software Requirement:       
+Programming Language : C++
+Operating system: Window 7
+
+
+
+

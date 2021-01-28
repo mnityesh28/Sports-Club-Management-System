@@ -1,0 +1,6 @@
+Future Enhancements
+
+Attendance records of the members and the coaches can be added in the system.
+In future more events can be added to the club. The process of selecting players for various sports and building a formidable team can be done.
+A list of players and upcoming tournaments can be displayed according to the sport. Also option of storing photos of members, coaches can be incorporated in the system.
+Detailed information of the sport can be provided. Achievements of individuals and the club in different sports can be incorporated and retrieved for various purposes.

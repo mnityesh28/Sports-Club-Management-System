@@ -1,0 +1,26 @@
+
+Modules of Sports Club Management System:
+Input_act(int k)– To enter the activity info.
+Outdata() – To display sports and activity info.
+Friend activity_list() – To read the file.
+Display_activity () – To display the files.
+Search_activity() – To search a record in the file.
+Modify_activity(char nm())– To modify record .
+Coachinfo(int k) – To insert data for coach.
+putdata() – To display records of the coach.
+Add_coach_file() – To add coach record  to file.
+Search_coach(char[]) – To search for coach info.
+Modify_char(char[])– To modify coach details from file.
+Indata(Int mem) – To enter  member details.
+Add_member_file() – To add member details.
+Search_member() – To search for member.
+Modify_member() – To modify member.
+Master_menu()- For main menu.
+Transaction_menu()-to display transaction menu.
+Coach_master()- to display  coach info.
+Member_master()- to display member info.
+main()- to call the other fucntions.
+Tran_indata()- to enter transaction details
+tran_display()- to display transaction details
+ tran_search_member(int)- to search transactions by member id
+tran_search_activity(int)- to search transactions by activity id

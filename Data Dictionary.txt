@@ -1,0 +1,23 @@
+Data dictionary
+
+Date :day/month/year
+Activity_num:integer : to enter activity number.
+Activity_name: integer : for activity name.
+fees: integer : to enter fees.
+time : integer : for time.
+a : object : object of class.
+char: integer :for if and switch cases.
+Coachid:int: for coachid.
+Coach_name[20]: for coach name.
+Address: char: for address.
+Email:char:for email.
+Game:char:for game.
+C:object:object of class coach.
+Gender:char : gender of member.
+Mem_id:int:member id.
+Address:char: for address of member.
+Name: char : for name of member.
+Phone:long it : for phone number.
+Email:char: for email of member.
+Activity_no :int: for activity number.
+M:object: object of class Member.
